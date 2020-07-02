@@ -8,6 +8,3 @@ resource "aws_instance" "ec2" {
   ami           = "ami-089cc16f7f08c4457"
   instance_type = "t2.micro"
 }
-
-*creating EC2 instance in AWS account
-*new
