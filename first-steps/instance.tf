@@ -8,3 +8,5 @@ resource "aws_instance" "ec2" {
   ami           = "ami-089cc16f7f08c4457"
   instance_type = "t2.micro"
 }
+
+* adding new here in new_branch branch
