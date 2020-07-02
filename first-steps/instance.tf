@@ -10,3 +10,4 @@ resource "aws_instance" "ec2" {
 }
 
 *creating EC2 instance in AWS account
+*new
