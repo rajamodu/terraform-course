@@ -9,3 +9,4 @@ resource "aws_instance" "ec2" {
   instance_type = "t2.micro"
 }
 
+*creating EC2 instance in AWS account
